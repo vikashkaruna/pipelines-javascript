@@ -40,5 +40,5 @@ steps:
     publishDirectory: '$(Build.ArtifactStagingDirectory)'
     feedsToUsePublish: 'internal'
     vstsFeedPublish: 'd4c6d282-7ec3-48ef-a7e7-f58a6d20343b/2755806a-4229-42ed-9856-e5cc2e652f4d'
-    vstsFeedPackagePublish: '@ArtifactsDemo.universalDemoPkg'
+    vstsFeedPackagePublish: 'universalDemo_Pkg'
     versionOption: 'minor'
